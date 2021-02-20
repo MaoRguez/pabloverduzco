@@ -44,7 +44,7 @@ A <a href="https://docs.github.com/en/github/managing-your-work-on-github/about-
 ## Side projects
 ### Robot Tracker
 <p>
-  Robot Tracker is a prototype of a robot cleaner interface, it allow the user start a cleaning process and it can even be scheduled for later. <a href='https://github.com/pabloverduzco/gh-projects-manager'>Read more</a>
+  Robot Tracker is a prototype of a robot cleaner interface, it allow the user start a cleaning process and it can even be scheduled for later. <a href='https://github.com/pabloverduzco/robot-tracker#readme'>Read more</a>
 </p>
 
 ## Languages and Tools
